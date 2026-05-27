@@ -1,16 +1,18 @@
-## Hi there 👋
+## Felipe Obregón Ochoa
+**Psicólogo | Análisis de datos sociales y organizacionales**
+📍 Antofagasta, Chile · 📧 ps.felipeobregonochoa@gmail.com
 
-<!--
-**felipeobregon26/felipeobregon26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Psicólogo titulado (UCN). Trabajo en la intersección entre 
+ciencias sociales, psicología organizacional y análisis de datos.
 
-Here are some ideas to get you started:
+**Herramientas:** R · RStudio · tidyverse · ggplot2 · 
+RMarkdown · Power BI · Excel Avanzado · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Áreas de análisis:** mercado laboral · psicología política · 
+comportamiento electoral · RRHH analítico · riesgo psicosocial
+
+**Publicación indexada:**
+Obregón F. et al. (2024). Jerarquía y autoridad: motivaciones 
+ideológicas de la oposición hacia la afirmación de derechos de 
+inmigrantes latinoamericanos en Chile.
+DOI: 10.1177/02134748241304940
