@@ -23,8 +23,6 @@ Autor principal de artículo publicado en revista indexada internacional sobre p
 
 ## Proyectos en desarrollo
 
-
-
 ### [HR-Analytics-Employee-Attrition-Performance](https://github.com/felipeobregon26/HR-Analytics-Employee-Attrition-Performance)
 Exploración de patrones de abandono y desempeño organizacional con enfoque en variables psicosociales del entorno laboral.
 
@@ -50,11 +48,11 @@ Pipeline de descarga y consolidación de la Encuesta Nacional de Empleo (ENE) de
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeobregon26&show_icons=true&theme=dark&hide_border=true&title_color=1c8070&icon_color=1c8070&text_color=8ab8cc&count_private=true&bg_color=0d1117)](https://github.com/felipeobregon26)
-&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeobregon26&layout=compact&hide_border=true&title_color=1c8070&text_color=8ab8cc&langs_count=5&bg_color=0d1117)](https://github.com/felipeobregon26)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=felipeobregon26&theme=dark&hide_border=true&ring=1c8070&fire=1c8070&currStreakLabel=1c8070&background=0d1117)](https://github.com/felipeobregon26)
+
+[![GitHub Stats](https://github-readme-stats.demolab.com/api?username=felipeobregon26&show_icons=true&theme=dark&hide_border=true&title_color=1c8070&icon_color=1c8070&text_color=8ab8cc&count_private=true&bg_color=0d1117)](https://github.com/felipeobregon26)
+&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.demolab.com/api/top-langs/?username=felipeobregon26&layout=compact&hide_border=true&title_color=1c8070&text_color=8ab8cc&langs_count=5&bg_color=0d1117)](https://github.com/felipeobregon26)
 
 </div>
 
