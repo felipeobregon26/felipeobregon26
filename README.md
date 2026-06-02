@@ -70,7 +70,7 @@ Obregón F. et al. (2024). Jerarquía y autoridad: motivaciones ideológicas de 
 | 2023–2025 | Personal Técnico — Investigación | Proyecto Fondecyt 11230903 · UCN |
 | 2023–2024 | Analista Compensación de Operaciones | INE · Antofagasta |
 | 2022–2023 | Gestor Territorial | Fundación TECHO-Chile |
-| 2025 | Facilitador Talleres de Reinserción | BeClever · Proyecto GORE |
+| 2025 | Facilitador Talleres de Reinserción | Proyecto GORE |
 
 ---
 
