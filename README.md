@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felipeobregonochoa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipeobregonochoa)
 [![Mi sitio web](https://img.shields.io/badge/Mi_sitio_web-felipeobregonochoa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/felipeobregonochoa](https://felipeobregon26.github.io/)](https://felipeobregon26.github.io/))
-https://felipeobregon26.github.io/
 [![Email](https://img.shields.io/badge/Email-ps.felipeobregonochoa%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ps.felipeobregonochoa@gmail.com)
 [![DOI](https://img.shields.io/badge/DOI-10.1177%2F02134748241304940-1c8070?style=flat-square)](https://doi.org/10.1177/02134748241304940)
 [![Visitas](https://komarev.com/ghpvc/?username=felipeobregon26&color=1c8070&style=flat-square&label=visitas)](https://github.com/felipeobregon26)
