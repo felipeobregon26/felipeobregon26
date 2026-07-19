@@ -67,6 +67,7 @@ Obregón F. et al. (2024). Jerarquía y autoridad: motivaciones ideológicas de 
 
 | Período | Cargo | Organización |
 |---|---|---|
+| 2026–Actualidad | Apoyo de Administración y Análisis de Información | LAE · Antofagasta |
 | 2025–2026 | Psicólogo Clínico | PIE Mahatma Gandhi · Antofagasta |
 | 2023–2025 | Personal Técnico — Investigación | Proyecto Fondecyt 11230903 · UCN |
 | 2023–2024 | Analista Compensación de Operaciones | INE · Antofagasta |
